@@ -1,3 +1,4 @@
 # RubiksCubeSolver
 
+Test
 $SHELL

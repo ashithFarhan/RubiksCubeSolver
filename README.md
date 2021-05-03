@@ -1,1 +1,3 @@
 # RubiksCubeSolver
+
+$SHELL
